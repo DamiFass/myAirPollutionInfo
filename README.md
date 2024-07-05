@@ -34,3 +34,6 @@ Air pollution is a major environmental issue that affects the health of millions
 Plastic in the Air: A 2020 study found that airborne microplastics, which originate from sources like car tires and clothing fibers, can travel thousands of miles through the atmosphere and be deposited in remote locations, including the Arctic. This means plastic pollution is not only a problem for our oceans but also for the air we breathe.
 
 "Oxygen Bar" Industry: In response to severe air pollution in cities like Beijing and New Delhi, an industry of "oxygen bars" has emerged where people can pay to breathe purified oxygen. These bars highlight the extreme measures some people must take to find relief from polluted air.
+
+# Interesting fact
+According to the World Health Organization (WHO), air pollution is responsible for the premature deaths of around 7 million people each year worldwide. 
