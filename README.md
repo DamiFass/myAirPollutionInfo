@@ -29,3 +29,6 @@ Air pollution has a significant impact on human health and the environment. Expo
 
 # Conclusion
 Air pollution is a major environmental issue that affects the health of millions of people worldwide. In this document, we discussed the causes and effects of air pollution and how it has changed over time. We hope this information has been helpful. For more information on air quality and pollution, please visit the Environmental Protection Agency website.
+
+# Interesting Stat
+According to the World Health Organization (WHO), air pollution is responsible for the premature deaths of around 7 million people each year worldwide. 
